@@ -1,8 +1,8 @@
-# gitginore template for Hugo projects
-# website: https://gohugo.io
-
-# generated files by hugo
+# Generated files by hugo
 /public/
+/resources/_gen/
 
-# executable may be added to repository
+# Executable may be added to repository
 hugo.exe
+hugo.darwin
+hugo.linux
